@@ -1,14 +1,3 @@
-Dodaj do repozytorium plik konfiguracyjny config.yml w nowo utworzonym folderze .circleci : 
-
-mkdir .circleci 
-
-cd .circleci 
-
-touch config.yml 
-
-Otwórz plik config.yml i dodaj następujacą konfigurację: 
-
- 
 
 version: 2.1 
 
